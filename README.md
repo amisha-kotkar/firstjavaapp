@@ -1,2 +1,3 @@
 # firstjavaapp
-Simplified java tryouts source code
+This is myy simple java project
+Created by Amisha
